@@ -1,0 +1,33 @@
+{
+  "name": "teste-grand-cursos-online",
+  "version": "1.0.0",
+  "description": "Teste desenvolvido para Gran Cursos Online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelwilker/teste-grand-cursos-online.git"
+  },
+  "keywords": [
+    "Teste",
+    "Gran",
+    "Cursos",
+    "Online"
+  ],
+  "author": "Raphael Wilker Mendes Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelwilker/teste-grand-cursos-online/issues"
+  },
+  "homepage": "https://github.com/raphaelwilker/teste-grand-cursos-online#readme",
+  "dependencies": {
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "vue": "^2.6.12"
+  }
+}
